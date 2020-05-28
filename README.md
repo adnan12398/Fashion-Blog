@@ -1,3 +1,3 @@
 # Fashion-Blog
 
-fashion blog in plain HTML5
+Fashion Blog in plain HTML5
